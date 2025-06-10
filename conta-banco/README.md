@@ -1,4 +1,4 @@
-# Conta Terminal
+# Conta Banco
 
 Este exercício simula uma conta bancária, permitindo que o usuário insira dados via terminal e visualize as informações da conta.
 
@@ -55,11 +55,10 @@ Por favor, digite o Saldo (Use . para separar os centavos):
 Olá SERGIO, obrigado por criar uma conta em nosso banco, sua agência é 1021, conta 067-8 e seu saldo 237.48 já está disponível para saque
 ```
 
-## Possibilidades Futuras
+## TODO: Possibilidades Futuras
 
--[ ] Validar os dados inseridos pelo usuário, garantindo que estejam no formato esperado.
-
--[ ] Utilizar boas práticas de programação, como organização do código e tratamento de exceções.
+- [ ] Validar os dados inseridos pelo usuário, garantindo que estejam no formato esperado.
+- [ ] Utilizar boas práticas de programação, como organização do código e tratamento de exceções.
 
 <details align="left">
   <summary></summary>
