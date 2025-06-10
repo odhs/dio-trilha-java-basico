@@ -1,16 +1,10 @@
 # Conta Terminal
 
-Esse programa recebe dados do usuário e mostra como se fosse uma conta bancária.
-
-## Passos
-
-1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as ca# Conta Terminal
-
-Este programa simula uma conta bancária, permitindo que o usuário insira dados via terminal e visualize as informações da conta.
+Este exercício simula uma conta bancária, permitindo que o usuário insira dados via terminal e visualize as informações da conta.
 
 ## Objetivo
 
-Criar um programa em Java que receba dados do usuário via terminal e exiba as informações de uma conta bancária com base nos atributos fornecidos.
+Criar um programa em _Java_ que receba dados do usuário via terminal e exiba as informações de uma conta bancária com base nos atributos fornecidos.
 
 ## Instruções
 
@@ -44,6 +38,7 @@ Os atributos da conta bancária e seus respectivos tipos são descritos na tabel
   - Declaração de variáveis em Java.
   - Uso do terminal e argumentos do método `main`.
   - Utilização da classe `Scanner` para entrada de dados.
+  - Utilização da classe `Math` para entrada de dados.
 
 ## Exemplo de Execução
 
@@ -54,14 +49,10 @@ Por favor, digite o número da Conta:
 1021
 Por favor, digite o Nome do Cliente:
 SERGIO OLIVEIRA
-Por favor, digite o Saldo:
+Por favor, digite o Saldo (Use . para separar os centavos):
 237.48
 
-Conta criada com sucesso!
-Agência: 067-8
-Número da Conta: 1021
-Cliente: SERGIO OLIVEIRA
-Saldo: R$ 237.48
+Olá SERGIO, obrigado por criar uma conta em nosso banco, sua agência é 1021, conta 067-8 e seu saldo 237.48 já está disponível para saque
 ```
 
 ## Possibilidades Futuras
@@ -69,3 +60,10 @@ Saldo: R$ 237.48
 -[ ] Validar os dados inseridos pelo usuário, garantindo que estejam no formato esperado.
 
 -[ ] Utilizar boas práticas de programação, como organização do código e tratamento de exceções.
+
+<details align="left">
+  <summary></summary>
+
+- Baseado em <a href="https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/sintaxe/README.md">Trilha Java Básico</a><br>
+
+</details>
